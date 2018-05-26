@@ -1,4 +1,4 @@
 # hello-world
 My first reposition
 
-Hello, I am glad you bothered to even come here and read this. I do not have anything to say about myself. I wish I knew more about myself to tell you guys, but I feel I don't know much about myself in the first place. It is either because I am way too complicated or just way too simple (I think it's the latter one). This turned out to be stupid. Hopefully, I'll be able to write something more interesting later on and completely transform this so that nobody sees this weird sentences. 
+Hello, I am glad you you came here to find out more about me. I am a CS undergrad student exploring various field in Computer Science. I enjoy problem-solving, critical thinking, and learning completely new things. I love to learn new languages and analyzing the complexity of code. I want to become a system/security analyst and I also see myself becoming a data scientist, but I am open to any opportunities.
